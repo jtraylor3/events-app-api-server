@@ -3,7 +3,7 @@
 * NodeJS version 16 or greater as the Server
 * Express for RESTful Routes
 * Morgan for Logging
-* Mocha, Chai, NYC for Testing  
+* Mocha, Chai, NYC for Testing  2 
 
 ## Instructions
 * Check the version of node with ` node -v`  
